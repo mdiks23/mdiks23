@@ -9,7 +9,7 @@
     font-size: 0.9em;
     min-width: 400px;
     border-radius: 5px 5px 0 0;
-    overflow: hidden;
+    overflow: ;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
     size: fitscreen;
 }
@@ -95,7 +95,7 @@ footer p font{
     place-items: center;
     font-family: var(--font-family);
     background:linear-gradient(to bottom, #000000,  );
-    overflow: hidden;
+    overflow: ;
   }
   .contianer {
     width: max-content;
@@ -114,7 +114,7 @@ footer p font{
     width: fullsreen;
     background-color: white;
     border-radius: 25px;
-    overflow: hidden;
+    overflow: ;
     padding: 30px 50px 0px 50px;
   }
   .calendar {

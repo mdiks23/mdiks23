@@ -35,41 +35,18 @@
 
 ## 🔥 Skills
 
-| Skill              | Level  |
-|--------------------|--------|
-| HTML / CSS         | 95%    |
-| JavaScript         | 85%    |
-| React              | 80%    |
-| Python             | 75%    |
-| C / C++            | 70%    |
-| Arduino (IoT)      | 70%    |
-| Git & GitHub       | 85%    |
+| Skill                                                              | Level  |
+|--------------------------------------------------------------------|--------|
+| HTML / CSS                                                         | 95%    | 
+| JavaScript                                                         | 85%    |
+| React                                                              | 80%    |
+| Python                                                             | 75%    |
+| C / C++                                                            | 70%    |
+| Arduino (IoT)                                                      | 70%    |
+| Git & GitHub                                                       | 85%    |
 
 > *Progress bars powered by passion and late-night debugging*
 
----
-
-## 🚜 Featured Projects
-
-| Project | Description | Tech | Link |
-|--------|-------------|------|------|
-| 🌤️ **Realtime Weather Checker** | Live weather app with clean UI | HTML, CSS, JS, API | [GitHub](https://github.com/mdiks23/Realtime-weather-checker) |
-| 🎓 **BGC-2K24 Alumni Site** | Batch reunion portal | React, Firebase | [Live](https://bgc2k24.netlify.app) |
-<!----| 🌱 **Smart Irrigation System** | IoT-based auto-watering | Arduino, Python | [GitHub](https://github.com/YOUR_USERNAME/Smart-Irrigation) | ---->
-
----
-
-## ⚡ Fun Fact
-> Game of Thrones Night's Watch cloaks are made from **IKEA rugs** 🐉🧶
-
----
-
-## 🛠 Currently Building: **Something that connects people**
-<!----
-<img src="https://progress-bar.dev/5/?title=Day&width=200&color=6e57e0" /> **Day 5 / 7**
-
-> Learning systems programming by building Redis from scratch in Rust!
---->
 ---
 
 ## 📫 Let's Connect!
